@@ -1,4 +1,10 @@
 {
+    "routes": [
+        {
+            "route": "/memberwebapp",
+            "rewrite": "/memberwebapp/index.html"
+        }
+    ],
     "navigationFallback": {
         "rewrite": "/index.html"
     }
